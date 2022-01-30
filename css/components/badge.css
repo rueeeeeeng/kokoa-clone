@@ -9,3 +9,11 @@
     color: white;
     font-weight: 600;
 }
+
+.badge-small{
+    position: absolute;
+    top: 25px;
+    right: 15px;
+    width: 5px;
+    height: 5px;
+}
